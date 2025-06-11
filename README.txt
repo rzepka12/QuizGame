@@ -13,4 +13,4 @@ Dodatkowe informacje:
 - Po zakończeniu quizu tworzony jest plik score.txt z Twoim wynikiem
 - Pytania są losowane z różnych dziedzin nauki
 
-Autor: Użytkownik ChatGPT
+Autor: rzepka12
