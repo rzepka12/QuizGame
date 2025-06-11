@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Jaki pierwiastek chemiczny ma symbol 'W'?",
+        "options": [
+            "Wolfram",
+            "Wanad",
+            "Wodór",
+            "Wapń"
+        ],
+        "answer": "Wolfram"
+    },
+    {
+        "question": "Który organ w ludzkim ciele produkuje insulinę?",
+        "options": [
+            "Trzustka",
+            "Wątroba",
+            "Żołądek",
+            "Nerka"
+        ],
+        "answer": "Trzustka"
+    },
+    {
+        "question": "Jak nazywa się największy księżyc Jowisza?",
+        "options": [
+            "Europa",
+            "Io",
+            "Ganimedes",
+            "Kalisto"
+        ],
+        "answer": "Ganimedes"
+    },
+    {
+        "question": "Która cząstka elementarna nie ma ładunku elektrycznego?",
+        "options": [
+            "Neutron",
+            "Proton",
+            "Elektron",
+            "Pozyton"
+        ],
+        "answer": "Neutron"
+    },
+    {
+        "question": "Kto sformułował zasadę nieoznaczoności w fizyce kwantowej?",
+        "options": [
+            "Heisenberg",
+            "Bohr",
+            "Einstein",
+            "Planck"
+        ],
+        "answer": "Heisenberg"
+    },
+    {
+        "question": "Jak nazywa się proces, w którym roślina wytwarza glukozę z dwutlenku węgla i wody?",
+        "options": [
+            "Fotosynteza",
+            "Oddychanie komórkowe",
+            "Transpiracja",
+            "Fermentacja"
+        ],
+        "answer": "Fotosynteza"
+    },
+    {
+        "question": "Która planeta w Układzie Słonecznym ma największą liczbę księżyców?",
+        "options": [
+            "Saturn",
+            "Jowisz",
+            "Uran",
+            "Neptun"
+        ],
+        "answer": "Saturn"
+    },
+    {
+        "question": "Jakie jest przybliżone przyspieszenie ziemskie?",
+        "options": [
+            "9.8 m/s²",
+            "10.5 m/s²",
+            "8.6 m/s²",
+            "9.1 m/s²"
+        ],
+        "answer": "9.8 m/s²"
+    },
+    {
+        "question": "Który pierwiastek ma największą elektroujemność?",
+        "options": [
+            "Fluor",
+            "Tlen",
+            "Azot",
+            "Chlor"
+        ],
+        "answer": "Fluor"
+    },
+    {
+        "question": "Jak nazywa się nauka o dziedziczności?",
+        "options": [
+            "Genetyka",
+            "Anatomia",
+            "Fizjologia",
+            "Biochemia"
+        ],
+        "answer": "Genetyka"
+    },
+    {
+        "question": "Ile chromosomów ma człowiek?",
+        "options": [
+            "46",
+            "44",
+            "48",
+            "42"
+        ],
+        "answer": "46"
+    },
+    {
+        "question": "Jaką jednostkę używamy do mierzenia częstotliwości?",
+        "options": [
+            "Herce",
+            "Dżule",
+            "Waty",
+            "Omy"
+        ],
+        "answer": "Herce"
+    },
+    {
+        "question": "Który gaz jest głównym składnikiem atmosfery Ziemi?",
+        "options": [
+            "Azot",
+            "Tlen",
+            "Dwutlenek węgla",
+            "Argon"
+        ],
+        "answer": "Azot"
+    },
+    {
+        "question": "Który typ wiązania chemicznego występuje w cząsteczce wody?",
+        "options": [
+            "Kowalencyjne spolaryzowane",
+            "Jonowe",
+            "Metaliczne",
+            "Wodorowe"
+        ],
+        "answer": "Kowalencyjne spolaryzowane"
+    },
+    {
+        "question": "Jakie jest największe zwierzę żyjące na Ziemi?",
+        "options": [
+            "Płetwal błękitny",
+            "Słoń afrykański",
+            "Orka",
+            "Kałamarnica olbrzymia"
+        ],
+        "answer": "Płetwal błękitny"
+    },
+    {
+        "question": "Która jednostka oznacza ciśnienie?",
+        "options": [
+            "Paskal",
+            "Niuton",
+            "Dżul",
+            "Wat"
+        ],
+        "answer": "Paskal"
+    },
+    {
+        "question": "Jak nazywa się proces przekształcania ciekłego azotu w gaz?",
+        "options": [
+            "Parowanie",
+            "Sublimacja",
+            "Kondensacja",
+            "Topnienie"
+        ],
+        "answer": "Parowanie"
+    },
+    {
+        "question": "Co mierzy woltomierz?",
+        "options": [
+            "Napięcie",
+            "Natężenie",
+            "Opór",
+            "Moc"
+        ],
+        "answer": "Napięcie"
+    },
+    {
+        "question": "Kto sformułował prawo powszechnego ciążenia?",
+        "options": [
+            "Newton",
+            "Galileusz",
+            "Kepler",
+            "Coulomb"
+        ],
+        "answer": "Newton"
+    },
+    {
+        "question": "Jakie witaminy są rozpuszczalne w tłuszczach?",
+        "options": [
+            "A, D, E, K",
+            "B i C",
+            "B1 i B12",
+            "C i D"
+        ],
+        "answer": "A, D, E, K"
+    }
+]
